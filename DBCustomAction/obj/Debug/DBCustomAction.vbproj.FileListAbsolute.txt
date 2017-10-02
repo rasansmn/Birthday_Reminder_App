@@ -1,0 +1,11 @@
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\bin\Debug\DBCustomAction.dll.config
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\bin\Debug\DBCustomAction.dll
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\bin\Debug\DBCustomAction.pdb
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\bin\Debug\DBCustomAction.xml
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\obj\Debug\DBCustomAction.Resources.resources
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\obj\Debug\DBCustomAction.dll
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\obj\Debug\DBCustomAction.xml
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\DBCustomAction\obj\Debug\DBCustomAction.pdb

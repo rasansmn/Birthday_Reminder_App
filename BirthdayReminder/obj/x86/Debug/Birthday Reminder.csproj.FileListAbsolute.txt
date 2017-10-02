@@ -1,0 +1,16 @@
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\BirthdayReminder.frmMain.resources
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\BirthdayReminder.frmAbout.resources
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\BirthdayReminder.frmAdd.resources
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\BirthdayReminder.frmEdit.resources
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\BirthdayReminder.Properties.Resources.resources
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\bin\Debug\BirthdayReminder.exe.config
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\bin\Debug\BirthdayReminder.exe
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\bin\Debug\BirthdayReminder.pdb
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\BirthdayReminder.exe
+C:\Users\Rasan\Documents\Visual Studio 2010\Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\BirthdayReminder.pdb
+G:\VB Projects\BirthdayReminder\BirthdayReminder\bin\Debug\BirthdayReminder.exe.config
+G:\VB Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\BirthdayReminder.exe
+G:\VB Projects\BirthdayReminder\BirthdayReminder\obj\x86\Debug\BirthdayReminder.pdb

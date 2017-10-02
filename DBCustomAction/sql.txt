@@ -1,0 +1,29 @@
+﻿USE [BRDB]
+
+
+/****** Object:  Table [dbo].[tblPeople]    Script Date: 03/11/2012 19:45:39 ******/
+SET ANSI_NULLS ON
+
+
+SET QUOTED_IDENTIFIER ON
+
+
+SET ANSI_PADDING ON
+
+
+CREATE TABLE [dbo].[tblPeople](
+	[ID] [int] NOT NULL,
+	[Name] [varchar](50) NOT NULL,
+	[Birthday] [varchar](50) NOT NULL,
+	[Phone] [varchar](50) NULL,
+	[Email] [varchar](50) NULL,
+	[Address] [varchar](max) NULL,
+ CONSTRAINT [PK_tblPeople] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+
+
+SET ANSI_PADDING OFF
